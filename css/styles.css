@@ -1,0 +1,124 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 70px;
+  color: #ffc288;
+  margin-top: 0;
+}
+span{
+  color: red;
+}
+.prog-img{
+  height: 25%;
+  width: 25%;
+
+}
+.header{
+  background-color: #b0efeb;
+}
+
+h2{
+  color: blue;
+}
+
+
+
+
+}
+.hello{
+  line-height: 2;
+font-family: 'Merriweather', serif;
+margin: auto;
+width: 50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align:left;
+  font-family: 'Merriweather', serif;
+}
+.chess-img{
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.prog-img{
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-right: 30px;
+
+}
+hr{
+  border-style: dotted;
+  color: #66bfbf;
+  border-bottom: none;
+  border-width: 6px;
+  width: 6%;
+  margin: 100px auto;
+}
+h3{
+  color: blue;
+}
+.qwerty{
+  color: blue;
+}
+.shoh{
+  color: black;
+  line-height: 2;
+  font-family: 'Merriweather', serif;
+  margin: 40px;
+}
+.btn{
+  background-color: #66bfbf;
+  padding: 20px 30px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.btn:hover{
+  background-color: lightblue;
+}
+p{
+line-height: 2;
+}
+.progro-img{
+  width:15%;
+  height:15%;
+  float: none;
+}
+.intro{
+  font-family: 'Merriweather', serif;
+width: 30%;
+margin: auto;
+line-height: 2;
+}
+.bottom-box{
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  margin-top: 50px;
+}
+a{
+  color: #3282b8;
+  font-family: 'Montserrat' , sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #E4F9F5;
+}
+.contact-message {
+  width: 40%;
+  margin: 60px auto 40px;
+}
+.copyright-message {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
